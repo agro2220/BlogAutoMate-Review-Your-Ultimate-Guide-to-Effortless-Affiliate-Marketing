@@ -1,4 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title of the document</title>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 <meta name="google-site-verification" content="k64Ryryw5XM3o3OWIUZTZEWGSp0xelg4we3d1cZ_oy8" />
+</body>
+</html>
 
 
 BlogAutoMate Review - Introduction
