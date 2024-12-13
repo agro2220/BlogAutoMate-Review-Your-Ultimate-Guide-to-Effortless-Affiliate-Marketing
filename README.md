@@ -5,6 +5,8 @@
 
   <meta name="google-site-verification" content="k64Ryryw5XM3o3OWIUZTZEWGSp0xelg4we3d1cZ_oy8" />
 </head>
+
+<meta name="google-site-verification" content="k64Ryryw5XM3o3OWIUZTZEWGSp0xelg4we3d1cZ_oy8" />
 <body>
 
 <h1>This is a heading</h1>
